@@ -1,10 +1,12 @@
+Introduction
+
 Data can be stored and manipulated based on our requirements and some of them include
 1 Student data
-2 ofiice files data
-3 employes data
-4 groceries data and so on..
+2 Ofiice files data
+3 Employes data
+4 Groceries data and so on..
 
-so,When it comes to the functionality of this Simple system, the user can use it to conduct CRUD tasks. 
+So,When it comes to the functionality of this Simple system, the user can use it to conduct CRUD tasks. 
 Add information on a student, such as his or her name, department, roll number, GPA, and so on. 
 The user can also view all of the student records that are available.
 Furthermore, the user has the ability to append information as well as delete all of a student's data.
